@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jackeline
-- 👀 I'm a UI/UX Designer with 4 years of experience and I'm currently interested in programming
+- 👀 I'm a UI/UX Designer with 4 years of experience and currently interested in programming
 - 🌱 I’m currently learning Dart
 
 <!---
